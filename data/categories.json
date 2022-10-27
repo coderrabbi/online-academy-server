@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "web development"
+    },
+    {
+        "id": "2",
+        "name": "Mern stack"
+    },
+    {
+        "id": "3",
+        "name": "Python learnig"
+    },
+    {
+        "id": "4",
+        "name": "c/c++"
+    },
+    {
+        "id": "5",
+        "name": "Android"
+    },
+    {
+        "id": "06",
+        "name": "Docker"
+    },
+    {
+        "id": "7",
+        "name": "web 3.0"
+    },
+    {
+        "id": "8",
+        "name": "NFT app"
+    }
+]
